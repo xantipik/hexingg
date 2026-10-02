@@ -49,7 +49,7 @@ public final class AspectCalculator {
         // Металлы GT / TFC
         registerBase("gtceu:iron_ingot",          list -> list.add(AspectRegistry.METALLUM, 5).add(AspectRegistry.TERRA, 1));
         registerBase("gtceu:copper_ingot",        list -> list.add(AspectRegistry.METALLUM, 4).add(AspectRegistry.AQUA, 1));
-        registerBase("gtceu:gold_ingot",          list -> list.add(AspectRegistry.METALLUM, 4).add(AspectRegistry.ORDO, 2));
+        registerBase("gtceu:gold_ingot",          list -> list.add(AspectRegistry.METALLUM, 4).add(AspectRegistry.ORDO, 3));
         registerBase("gtceu:silver_ingot",        list -> list.add(AspectRegistry.METALLUM, 4).add(AspectRegistry.ORDO, 1).add(AspectRegistry.AQUA, 1));
         registerBase("gtceu:tin_ingot",           list -> list.add(AspectRegistry.METALLUM, 3).add(AspectRegistry.AQUA, 1));
         registerBase("gtceu:bronze_ingot",        list -> list.add(AspectRegistry.METALLUM, 5).add(AspectRegistry.TERRA, 1).add(AspectRegistry.ORDO, 1));
